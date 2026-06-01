@@ -1,6 +1,6 @@
 # Birthday Keepsake
 
-A premium, romantic birthday website built with React JSX, React Router, Firebase Authentication, Firestore, Cloudinary uploads, responsive CSS, and Framer Motion.
+A premium, birthday website built with React JSX, React Router, Firebase Authentication, Firestore, Cloudinary uploads, responsive CSS, and Framer Motion.
 
 ## Features
 
@@ -8,8 +8,8 @@ A premium, romantic birthday website built with React JSX, React Router, Firebas
 - Public gallery preview limited to 4 images
 - Firebase Email/Password login only
 - Admin-only dashboard for content management
-- Special-person private experience with warmer motion and floating hearts
-- Firestore-backed wishes, gallery, private moments, and special days
+- Special-person experience with warmer motion and floating hearts
+- Firestore-backed wishes, gallery, and special days
 - Cloudinary image uploads with previews and upload progress UI
 - Responsive glassmorphism interface with soft birthday decorations
 - Production build chunk splitting for React, Firebase, and Framer Motion
